@@ -560,7 +560,7 @@ ol.type li a:hover {
 }
 /* Testimonials Section */
 #testimonials {
-	background: url(../img/testimonial-bg.jpg);
+	background: url(../img/intro-bg.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	color: #ddd;
@@ -708,5 +708,3 @@ nav#footer p {
 #footer i.fa:hover {
 	color: #F4D03F;
 }
-
-
